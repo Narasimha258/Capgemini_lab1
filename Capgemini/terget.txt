@@ -1,0 +1,9 @@
+ublic clas Demo
+pubic static oid main(Sring[] arg) {
+int a10;
+int b20;
+int sm=a+b;
+Sytem.out.prntln("sum s"+sum);
+ystem.out.rintln("God Morning lass");
+it n=10;
+it sum1=0;		ÿÿÿÿÿÿÿÿ
